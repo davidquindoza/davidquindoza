@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working on Waze Churn Model<br> 🌱 I’m currently learning Confusion Matrix on my model<br>📫  Reach out to me at dmquindoza@gmail.com<br>👨‍💻  Visit my Blog at https://davidquindoza.github.io/davidquindozaSite/<br>📄  Know about my experiences at  https://datascienceportfol.io/davidquindoza <br>
+🔭  I’m currently working on a Waze Churn Model<br> 🌱 I’m currently learning Logistic Regression <br>📫  Reach out to me at dmquindoza@gmail.com<br>👨‍💻  Visit my Blog at https://davidquindoza.github.io/davidquindozaSite/<br>
 
 
 ## 🌐 Socials:
