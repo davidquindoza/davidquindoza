@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working on Data Science Projects<br> 🌱 I’m currently learning Modeling techniques <br>📫  Reach out to me at dmquindoza@gmail.com <br>👨‍💻  Visit my Blog at https://davidquindoza.github.io/davidquindozaSite/<br> 📊 View my Tableau Visualizations at https://public.tableau.com/app/profile/david.matthew.quindoza <br>
+🔭  Open to work<br> 🌱 --- <br>📫  Reach out to me at dmquindoza@gmail.com <br>👨‍💻  Visit my Blog at https://davidquindoza.github.io/davidquindozaSite/<br> 📊 View my Tableau Visualizations at https://public.tableau.com/app/profile/david.matthew.quindoza <br>
 
 
 ## 🌐 Socials:
