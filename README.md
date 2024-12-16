@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  Open to work<br> 🌱 Learning Data Eng and GenAI trends <br>📫  Reach out to me at dmquindoza@gmail.com <br>👨‍💻  Visit my Blog at https://davidquindoza.github.io/davidquindozaSite/<br> 📊 View my Tableau Visualizations at https://public.tableau.com/app/profile/david.matthew.quindoza <br>
+🔭  --- <br> 🌱 Learning Data Eng and GenAI trends <br>📫  Reach out to me at dmquindoza@gmail.com <br>👨‍💻  Visit my Blog at https://davidquindoza.github.io/davidquindozaSite/<br> 📊 View my Tableau Visualizations at https://public.tableau.com/app/profile/david.matthew.quindoza <br>
 
 
 ## 🌐 Socials:
