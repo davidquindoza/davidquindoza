@@ -14,7 +14,6 @@
 
 ![BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=white)
 ![Cloud Run Function](https://img.shields.io/badge/Cloud%20Run%20Function-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloud Build](https://img.shields.io/badge/Cloud%20Build-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-AECBFA.svg?style=for-the-badge&logo=Google-Cloud-Storage&logoColor=black)
 ![Pub/Sub](https://img.shields.io/badge/Google%20Pub/Sub-AECBFA.svg?style=for-the-badge&logo=Google-Pub/Sub&logoColor=black)
 ![Compute Engine](https://img.shields.io/badge/Compute%20Engine-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
